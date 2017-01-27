@@ -2,8 +2,10 @@ var webpack = require('webpack');
 var path = require('path');
 
 module.exports = {
-  entry: './app.js',
-  output: { path: __dirname, filename: 'bundle.js' },
+  entry: path.resolve(__dirname, 'app.js'),
+  output: {
+    path: path.resolve(__dirname),
+    filename: 'bundle.js' },
   resolve: {
     extensions: ['', '.js'],
     alias: {
