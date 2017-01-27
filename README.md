@@ -1,4 +1,4 @@
-# mapbox-d3-timeseries-points
+# Mapbox D3 Timeseries Points
 Timeseries data as D3 overlay on Mapbox
 
 ## environment
