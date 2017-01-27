@@ -18,3 +18,7 @@ Timeseries data as D3 overlay on Mapbox
 https://mikewilliamson.wordpress.com/2016/02/24/using-mapbox-gl-and-webpack-together/
 * Mapbox-gl -> d3 projection
 https://bl.ocks.org/enjalot/1ed5d9795b82f846759f89029b0b8ff3
+
+## next steps
+* TypeScript please
+http://www.jbrantly.com/typescript-and-webpack/
