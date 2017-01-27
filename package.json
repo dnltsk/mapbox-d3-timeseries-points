@@ -4,7 +4,6 @@
   "description": "Timeseries data as D3 overlay on Mapbox ",
   "main": "app.js",
   "scripts": {
-    "test": "test",
     "build": "webpack",
     "start": "http-server -p 3000 ."
   },
