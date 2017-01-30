@@ -24,6 +24,10 @@
     "url": "https://github.com/dnltsk/mapbox-d3-timeseries-points/issues"
   },
   "homepage": "https://github.com/dnltsk/mapbox-d3-timeseries-points",
+  "dependencies": {
+    "d3": "^4.5.0",
+    "mapbox-gl": "^0.32.1"
+  },
   "devDependencies": {
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
@@ -31,7 +35,6 @@
     "babel-preset-stage-0": "^6.22.0",
     "http-server": "^0.9.0",
     "json-loader": "^0.5.4",
-    "mapbox-gl": "^0.32.1",
     "transform-loader": "^0.2.3",
     "webpack": "^1.14.0",
     "webworkify-webpack": "^2.0.1"
