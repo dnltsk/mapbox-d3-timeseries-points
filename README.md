@@ -1,7 +1,7 @@
-# Mapbox D3 Timeseries Points (Prove of Concept)
+# Mapbox D3 Timeseries Points (Proof of Concept)
 Timeseries data as D3 overlay on Mapbox
 
-**STATUS: discontinued because d3 cannot handle >=10k circles efficiently!**
+**STATUS: discontinued because d3 can't handle >=10k circles efficiently!**
 
 => Mapbox GL together with [Filters](https://www.mapbox.com/mapbox-gl-style-spec/#types-filter) looks more promissing!
 
