@@ -1,5 +1,5 @@
 # Mapbox D3 Timeseries Points (Proof of Concept)
-Timeseries data as D3 overlay on Mapbox
+Animation of timeseries data via D3 overlay on Mapbox.
 
 **STATUS: discontinued because d3 can't handle >=10k circles efficiently!**
 
