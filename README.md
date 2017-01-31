@@ -26,10 +26,6 @@ D3 Overlay:
 * Mapbox-gl -> d3 projection
 https://bl.ocks.org/enjalot/1ed5d9795b82f846759f89029b0b8ff3
 
-Mapbox GL Layer:
-* https://www.mapbox.com/mapbox-gl-js/example/data-driven-circle-colors/
-* https://www.mapbox.com/mapbox-gl-js/example/timeline-animation/
-
 ## next steps
 * TypeScript please
 http://www.jbrantly.com/typescript-and-webpack/
