@@ -15,7 +15,7 @@ Timeseries data as D3 overlay on Mapbox
 
 ## start
 1. `npm run start`
-2. open http://localhost:3000/
+2. open `http://localhost:3000/`
 
 ## references
 General:
